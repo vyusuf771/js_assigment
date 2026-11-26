@@ -9,3 +9,5 @@ whole=Math.round(whole)
 console.log(whole);
 console.log(Math.floor(num));
 
+let negitive_positive=-23;
+console.log(Math.abs(negitive_positive));
