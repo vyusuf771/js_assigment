@@ -9,5 +9,6 @@ console.log(name.slice(4));
 console.log(name.split(","));
 console.log(...name);
 console.log(...arry);
+console.log(Date());
 
 
