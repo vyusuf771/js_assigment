@@ -28,3 +28,14 @@ while(n>=1){
     n=n-1;
     
 }
+let su=10;
+let total=0;
+while(su>=1){
+    total=total+su;
+    su=su-1
+    
+    
+}
+console.log(total);
+
+
