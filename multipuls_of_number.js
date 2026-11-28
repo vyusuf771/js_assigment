@@ -35,3 +35,15 @@ while (true) {
     }
     
 }
+console.log("SUPPERARE");
+
+
+// let skip=10
+for(i=0;i<=10;i++){
+    if(i==5){
+        continue
+    }else{
+        console.log(i);
+        
+    }
+}
