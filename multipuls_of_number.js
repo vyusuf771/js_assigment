@@ -22,3 +22,16 @@ while (num1>=0) {
 }
 console.log(a);
 
+let num2=0;
+while (true) {
+    if (num2<=6) {
+        console.log(num2);
+        num2=num2+1
+        
+        
+    }
+    else{
+        break;
+    }
+    
+}
